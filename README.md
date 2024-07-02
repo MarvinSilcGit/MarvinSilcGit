@@ -6,7 +6,7 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarvinSilcgit&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=" alt="GitHub Streak" /></a>
   </a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=github_dark_dimmed)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=chartreuse-dark)
   
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
