@@ -18,7 +18,7 @@
 
 ### Current position:
 
-Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL);
+Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL) since feb, 2024;
 
 
 ### The Languages and Tools that I have the most interest:
