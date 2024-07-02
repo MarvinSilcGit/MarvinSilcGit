@@ -17,8 +17,8 @@
   </a>
 </div>
 
-### 🔭 I’m currently working at ...
-### I’m currently learning ...
+### Job:
+
 
 ### Languages and Tools:
 
