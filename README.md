@@ -5,9 +5,8 @@
   <a href="https://git.io/streak-stats">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarvinSilcgit&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=" alt="GitHub Streak" /></a>
   </a>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=chartreuse-dark)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=chartreuse-dark) <br>
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
 <div>
@@ -34,5 +33,4 @@ Professor de informática para o Ensino Profissionalizante no Estado da Bahia;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pyscript/pyscript-original-wordmark.svg" title="PyScript" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="" width="40" height="40"/>&nbsp;
-
 </div>
