@@ -1,20 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
 <div align ="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFtNDh2MmJ2eDM4NTFqc2Zqam8zdHJmdWtmNHVpbmRzemxva3FmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width ="240" height ="144">
+  <h3>Stats</h3>
+  <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarvinSilcgit&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=" alt="GitHub Streak" /></a>
+  </a> <br>
+  <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
 
-<div align ="center">
+<div>
+  <h3>Social:</h3>
   <a href ="https://linkedin.com/in/marvin-silc-974759148">
     <img src ="https://img.shields.io/badge/LinkedIn-blue? logo =linkedin & logoColor =white">
   </a>
-  
 </div>
-<div align ="center">
-  <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
-</div>
+
 ### 🔭 I’m currently working at ...
 ### I’m currently learning ...
+
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="" width="40" height="40"/>&nbsp;
