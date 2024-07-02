@@ -4,10 +4,12 @@
   <h3>Stats</h3>
   <a href="https://git.io/streak-stats">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarvinSilcgit&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=" alt="GitHub Streak" /></a>
-  </a> <br>
+  </a>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=github_dark_dimmed)
+  
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
-
 <div>
   <h3>Social:</h3>
   <a href ="https://linkedin.com/in/marvin-silc-974759148">
