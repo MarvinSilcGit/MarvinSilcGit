@@ -1,7 +1,7 @@
-# Hi there. I'm Marvin Silc and 26 year old 👋
+# Hi there. I'm Marvin Silc and 26 year old.👋
 
 <div align ="center">
-  <h3>Stats</h3>
+  <h3>Here are my Stats</h3>
   <a href="https://git.io/streak-stats">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarvinSilcgit&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=" alt="GitHub Streak" /></a>
   </a>
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-### Job:
+### Employment:
 
 Professor de informática para o Ensino Profissionalizante no Estado da Bahia;
 
