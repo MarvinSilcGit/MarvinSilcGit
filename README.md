@@ -10,18 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
 <div>
-  <h3>Social:</h3>
+  <h3>Where to find me:</h3>
   <a href ="https://linkedin.com/in/marvin-silc-974759148">
     <img src ="https://img.shields.io/badge/LinkedIn-blue? logo =linkedin & logoColor =white">
   </a>
 </div>
 
-### Employment:
+### Current position:
 
-Professor de informática para o Ensino Profissionalizante no Estado da Bahia;
+Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL);
 
 
-### Languages and Tools:
+### The Languages and Tools that I have the most interest:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="" width="40" height="40"/>&nbsp;
