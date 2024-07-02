@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there. I'm Marvin Silc and 26 year old 👋
 
 <div align ="center">
   <h3>Stats</h3>
@@ -18,6 +18,8 @@
 </div>
 
 ### Job:
+
+Professor de informática para o Ensino Profissionalizante no Estado da Bahia;
 
 
 ### Languages and Tools:
