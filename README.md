@@ -7,9 +7,12 @@
   </a>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=chartreuse-dark) <br>
- 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=marvinsilcgit&count_private=true&theme=chartreuse-dark&showicons=true)]()
-  
+  <p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marvinsilcgit&theme=onestar&no-frame=true&column=3&row=2" alt="marvinsilcgit">
+  </a>
+</p>
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
 <div>
@@ -17,13 +20,8 @@
   <a href ="https://linkedin.com/in/marvin-silc-974759148">
     <img src ="https://img.shields.io/badge/LinkedIn-blue? logo =linkedin & logoColor =white">
   </a>
+  
 </div>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marvinsilcgit&theme=onestar&no-frame=true" alt="marvinsilcgit">
-  </a>
-</p>
 ### Current position:
 
 Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL) since feb, 2024;
