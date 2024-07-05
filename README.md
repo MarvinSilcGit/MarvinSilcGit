@@ -19,6 +19,11 @@
   </a>
 </div>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marvinsilcgit&theme=onestar&no-frame=true" alt="marvinsilcgit">
+  </a>
+</p>
 ### Current position:
 
 Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL) since feb, 2024;
