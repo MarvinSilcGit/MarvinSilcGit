@@ -22,6 +22,7 @@
   </a>
   
 </div>
+
 ### Current position:
 
 Professor de informática para o Ensino Profissionalizante no Estado da Bahia (BRAZIL) since feb, 2024;
