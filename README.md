@@ -7,6 +7,9 @@
   </a>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinSilcGit&layout=compact&theme=chartreuse-dark) <br>
+ 
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=marvinsilcgit&count_private=true&theme=chartreuse-dark&showicons=true)]()
+  
   <img src="https://komarev.com/ghpvc/?username=marvinsilcgit&style=flat&color=blueviolet&label=Views&abbreviated=true" alt=""/>
 </div>
 <div>
