@@ -1,4 +1,4 @@
-# Hi there. I'm Marvin Silc and 26 year old.👋
+# Hi there. I'm Marvin Silc and 26 years old.👋
 
 <div align ="center">
   <h3>Here are my Stats</h3>
